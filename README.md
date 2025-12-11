@@ -17,7 +17,9 @@
 
 ## 🔥 My GitHub Contribution Overview  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=monisingh01&theme=highcontrast&background=30,00ffcb,008cff&ring=00ffcb&fire=00ffcb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+  <img 
+    src="https://streak-stats.demolab.com?user=monisingh01&theme=tokyonight&background=000000&dates=00eaff&ring=00ffcb&fire=00ffcb&currStreakNum=00eaff&sideNums=00eaff&currStreakLabel=00ffcb&sideLabels=00ffcb" 
+  />
 </p>
 
 <p align="center">
