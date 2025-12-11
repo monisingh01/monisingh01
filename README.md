@@ -26,15 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monisingh01&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monisingh01&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monisingh01&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
 ---
 
 ## 🌟 About Me  
@@ -55,23 +46,37 @@ I'm a **React / MERN Specialist** building clean admin dashboards, internal tool
 
 ---
 
-# 🚀 Live Projects  
+# 🚀 Live Projects (Deployed)
 
 ### 🔹 **Portfolio Website**
-Live: https://moni-portfolio-pi.vercel.app/  
-Code: *(Add GitHub repo if needed)*
-
-### 🔹 **Medlivurr Medicine Platform**
-GitHub: https://github.com/monisingh01/Banking_api  
+🌐 Live: https://moni-portfolio-pi.vercel.app/ 
 
 ### 🔹 **Garage Management System**
-GitHub: https://garage-management-frontend-ruby.vercel.app/dashboard
+🌐 Live: https://garage-management-frontend-ruby.vercel.app/dashboard  
+
+### 🔹 **ICC Cricket Management**
+🌐 Live: https://system.indorecricketclub.com
+
+### 🔹 **Medlivurr Medicine Platform**
+🌐 Live: https://github.com/monisingh01/Banking_api  
+ 
+
+---
+
+# 📦 GitHub Projects (Repositories)
+
+
+### 🔹 **Banking API (TypeScript)**
+🔗 GitHub: https://github.com/monisingh01/Banking_api  
+
+### 🔹 **Ecommerce Backend (Node.js)**
+🔗 GitHub: https://github.com/monisingh01/ecommerce_backend_api  
 
 ### 🔹 **Pixabay Clone**
-GitHub: https://github.com/monisingh01/Pixabay-Clone  
+🔗 GitHub: https://github.com/monisingh01/Pixabay-Clone  
 
 ### 🔹 **Bouncing Ball Game**
-GitHub: https://github.com/monisingh01/Bouncing_ball_game  
+🔗 GitHub: https://github.com/monisingh01/Bouncing_ball_game  
 
 ---
 
