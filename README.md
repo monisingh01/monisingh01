@@ -1,4 +1,17 @@
-<h1 align="center">🚀 Hi, I'm Moni Singh</h1>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg,#ff00cc,#3333ff); -webkit-background-clip: text; color: transparent;">
+    🚀 Hi, I'm Moni Singh
+  </span>
+</h1>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1700&pause=800&color=F7A400&center=true&vCenter=true&width=600&height=70&lines=I+am+a+Fullstack+Developer;I+am+a+Coder;I+am+a+MERN+Developer;I+am+a+Software+Engineer" 
+    alt="Typing Animation"
+  />
+</p>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2000&pause=1000&color=FFB800&center=true&vCenter=true&width=600&height=70&lines=I+am+a+Full+Stack+Developer;Frontend+Developer;Backend+Developer;MERN+Developer;Tech+Enthusiast+🚀" alt="Typing SVG" />
