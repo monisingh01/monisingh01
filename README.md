@@ -1,5 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=monisingh01&mode=weekly&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monisingh01&theme=sea-dark&mode=weekly)](https://git.io/streak-stats)
 ## Hi there 👋
 
 <!--
