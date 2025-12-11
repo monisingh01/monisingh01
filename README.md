@@ -76,9 +76,9 @@ Every release is about **fast iteration, better UX, and polished products.**
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/moni-singh-123456789/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://moni-portfolio-pi.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=webflow" height="40"/></a>
-  <a href="mailto:monisingh01@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://www.linkedin.com/in/moni-singh-96a560308/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://vercel.com/moni-singhs-projects" target="_blank"><img src="https://skillicons.dev/icons?i=webflow" height="40"/></a>
+  <a href="mailto:monisingh7476@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
 ---
