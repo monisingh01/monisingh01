@@ -1,32 +1,68 @@
-<h1 align="center">Hi 👋, I'm Moni Singh</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h1 align="center">🌟 Hi, I'm Moni Singh 🌟</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&pause=1000&color=F7A900&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;Backend+Developer;Frontend+Developer;Open+Source+Contributor;Tech+Enthusiast+💻" alt="Typing Animation" />
+</p>
 
 ---
 
-### 🔥 GitHub Streak  
-[![GitHub Streak](https://streak-stats.demolab.com?user=monisingh01&theme=holi-theme)](https://git.io/streak-stats)
+## 🚀 About Me
+- 🔭 I’m currently working on **High-Performance Full-Stack Applications**  
+- 🌱 I’m learning **Next.js, TypeScript & Cloud Deployment**  
+- 👯 I love contributing to **Open Source & Real-World Projects**  
+- ⚡ Fun fact: **I turn caffeine ✨ into clean code**  
 
 ---
 
-### 📊 GitHub Stats  
-![Moni's GitHub stats](https://github-readme-stats.vercel.app/api?username=monisingh01&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=monisingh01&theme=holi-theme&mode=daily)](https://git.io/streak-stats)
+
+### 🚀 Overall Performance  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=monisingh01&show_icons=true&theme=radical&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monisingh01&layout=compact&theme=radical" height="165"/>
+</p>
 
 ---
 
-### 💻 Languages & Tools  
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mongodb,git,github" />
+## 🛠️ Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,postman" />
+</p>
 
 ---
 
-### 🚀 Projects  
-- **Banking API** – TypeScript  
-- **Ecommerce Backend** – Node.js  
-- **Pixabay Clone** – JavaScript  
+## 🌟 Featured Projects
+
+### 🔹 **Banking API (TypeScript)**
+🔸 Secure authentication  
+🔸 Transaction handling  
+🔸 Error-proof backend architecture  
+🔗 *Add GitHub link here*
+
+### 🔹 **Ecommerce Backend (Node.js)**
+🔸 Payment integration  
+🔸 Product & cart system  
+🔸 JWT login  
+🔗 *Add GitHub link here*
+
+### 🔹 **Pixabay Clone (JavaScript)**
+🔸 Image search  
+🔸 API integration  
+🔗 *Add GitHub link here*
 
 ---
 
-### ✨ About Me  
-- 🔭 I’m currently working on ...  
-- 🌱 I’m learning ...  
-- 🤝 I’m looking to collaborate on ...
+## 🤝 Connect With Me  
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://skillicons.dev/icons?i=webflow" height="40"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
 
+---
+
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
