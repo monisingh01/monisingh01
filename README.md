@@ -1,5 +1,6 @@
 <h1 align="center">
-  <span style="background: linear-gradient(90deg,#ff00cc,#3333ff); -webkit-background-clip: text; color: transparent;">
+  <span style="background: linear-gradient(90deg, #00ffcb, #00ff87, #008cff);
+ -webkit-background-clip: text; color: transparent;">
     🚀 Hi, I'm Moni Singh
   </span>
 </h1>
