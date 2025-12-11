@@ -11,8 +11,10 @@
 ## 🔥 My GitHub Contribution Overview  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=monisingh01&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=monisingh01&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=monisingh01&layout=compact&theme=tokyonight" height="160" />
 </p>
+
 
 
 <p align="center">
