@@ -11,9 +11,11 @@
 ## 🔥 My GitHub Contribution Overview  
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=monisingh01&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=monisingh01&layout=compact&theme=tokyonight" height="160" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1800&pause=800&color=00A0FF&center=true&vCenter=true&width=650&height=70&lines=React+%26+MERN+Specialist;I+am+a+Full+Stack+Developer;I+am+a+Coder;I+am+a+MERN+Developer;I+am+a+Software+Engineer"
+  />
 </p>
+
 
 
 
