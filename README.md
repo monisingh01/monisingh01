@@ -10,7 +10,21 @@
 
 ## 🔥 My GitHub Contribution Overview
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=monisingh01&theme=highcontrast&background=30,00ffcb,008cff&ring=00ffcb&fire=00ffcb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" /> </p>
+<!-- GREEN CONTRIBUTION GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monisingh01&theme=react-dark&bg_color=000000&color=00ff87&line=00bfff&point=00ff87&area=true&hide_border=true" />
+</p>
+
+<!-- STREAK CARD -->
+<p align="center"> 
+  <img src="https://streak-stats.demolab.com?user=monisingh01&theme=highcontrast&background=30,00ffcb,008cff&ring=00ffcb&fire=00ffcb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" /> 
+</p>
+
+<!-- STATS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=monisingh01&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monisingh01&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 
 
