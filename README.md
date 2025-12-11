@@ -1,4 +1,16 @@
-<h1 align="center">🌟 Hi, I'm Moni Singh 🌟</h1>
+<h1 align="center">🚀 Hi, I'm Moni Singh</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2000&pause=1000&color=FFB800&center=true&vCenter=true&width=600&height=70&lines=I+am+a+Full+Stack+Developer;Frontend+Developer;Backend+Developer;MERN+Developer;Tech+Enthusiast+🚀" alt="Typing SVG" />
+</p>
+
+---
+
+## 🎨 Gradient Streak (Premium Look)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=monisingh01&theme=highcontrast&background=30,ff7f50,ff1493&ring=ffdd00&fire=ffdd00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="Moni's Streak"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&pause=1000&color=F7A900&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;Backend+Developer;Frontend+Developer;Open+Source+Contributor;Tech+Enthusiast+💻" alt="Typing Animation" />
