@@ -1,44 +1,52 @@
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #00ffcb, #00ff87, #008cff);
- -webkit-background-clip: text; color: transparent;">
+  <span style="background: linear-gradient(90deg, #00ffcb, #00ff87, #008cff); -webkit-background-clip: text; color: transparent;">
     🚀 Hi, I'm Moni Singh
   </span>
 </h1>
 
+<!-- Typing Animation (Gradient Styled Wrapper) -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1800&pause=800&color=FF00CC&center=true&vCenter=true&width=650&height=70&lines=React+%26+MERN+Specialist;I+am+a+Full+Stack+Developer;I+build+clean+apps+with+React+%2B+Next.js;I+write+scalable+code+daily" 
-    alt="Typing Animation"
-  />
+  <span style="
+    background: linear-gradient(90deg, #00ffcb, #00ff87, #008cff);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 28px;
+    font-weight: 700;
+  ">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1800&pause=1000&color=00ffcb&center=true&vCenter=true&width=650&height=70&lines=React+%26+MERN+Specialist;I+am+a+Full+Stack+Developer;I+am+a+Coder;I+am+a+MERN+Developer;I+am+a+Software+Engineer" 
+      alt="Typing Animation"
+    />
+  </span>
 </p>
 
 ---
 
-## 🌟 About Me (from Portfolio)
+## 🌟 About Me
 
 I'm a **React / MERN Specialist** building **clean admin experiences, dashboards, and component systems** using:
 
 ✨ React / Next.js  
 ✨ Tailwind CSS  
-✨ Node & Mongo for APIs
+✨ Node & MongoDB for APIs  
 
-Every release is about **fast iteration, better UX, and polished products.**
+I focus on **fast iteration, polished UI/UX, and clean scalable code** every day.
 
 ---
 
 ## 🎨 Gradient Streak (Premium Look)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=monisingh01&theme=highcontrast&background=30,ff7f50,ff1493&ring=ffdd00&fire=ffdd00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="Moni's Streak"/>
+  <img src="https://streak-stats.demolab.com?user=monisingh01&theme=highcontrast&background=30,00ffcb,008cff&ring=00ffcb&fire=00ffcb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Gradient Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monisingh01&show_icons=true&theme=radical&hide_border=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monisingh01&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=monisingh01&show_icons=true&theme=tokyonight&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monisingh01&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -65,7 +73,8 @@ Every release is about **fast iteration, better UX, and polished products.**
 🔗 https://github.com/monisingh01/ecommerce_backend_api
 
 ### 🔹 **Pixabay Clone (JavaScript)**
-- Image search with API  
+- Real-time image search  
+- API integration  
 🔗 https://github.com/monisingh01/Pixabay-Clone
 
 ### 🔹 **Bouncing Ball Game (HTML)**
@@ -78,7 +87,7 @@ Every release is about **fast iteration, better UX, and polished products.**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/moni-singh-96a560308/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://vercel.com/moni-singhs-projects" target="_blank"><img src="https://skillicons.dev/icons?i=webflow" height="40"/></a>
+  <a href="https://moni-portfolio-pi.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=webflow" height="40"/></a>
   <a href="mailto:monisingh7476@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
