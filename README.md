@@ -8,12 +8,9 @@
 
 ---
 
-## 🔥 My GitHub Contribution Overview  
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=monisingh01&theme=dark&background=30,001f3f,003f5c&ring=00eaff&fire=00eaff&currStreakNum=00eaff&sideNums=00eaff&currStreakLabel=00eaff&sideLabels=00eaff&dates=00bcd4" 
-  />
-</p>
+## 🔥 My GitHub Contribution Overview
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=monisingh01&theme=highcontrast&background=30,00ffcb,008cff&ring=00ffcb&fire=00ffcb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" /> </p>
 
 
 
