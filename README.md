@@ -11,11 +11,9 @@
 ## 🔥 My GitHub Contribution Overview  
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=monisingh01&theme=tokyonight&background=000000&dates=00eaff&ring=00ffcb&fire=00ffcb&currStreakNum=00eaff&sideNums=00eaff&currStreakLabel=00ffcb&sideLabels=00ffcb"
-    height="200"
-  />
+  <img src="https://streak-stats.demolab.com?user=monisingh01&theme=tokyonight&hide_border=false" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=monisingh01&show_icons=true&theme=tokyonight" height="160"/>
