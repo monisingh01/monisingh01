@@ -9,12 +9,12 @@
 ---
 
 ## 🔥 My GitHub Contribution Overview  
-
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1800&pause=800&color=00A0FF&center=true&vCenter=true&width=650&height=70&lines=React+%26+MERN+Specialist;I+am+a+Full+Stack+Developer;I+am+a+Coder;I+am+a+MERN+Developer;I+am+a+Software+Engineer"
+    src="https://streak-stats.demolab.com?user=monisingh01&theme=dark&background=30,001f3f,003f5c&ring=00eaff&fire=00eaff&currStreakNum=00eaff&sideNums=00eaff&currStreakLabel=00eaff&sideLabels=00eaff&dates=00bcd4" 
   />
 </p>
+
 
 
 
