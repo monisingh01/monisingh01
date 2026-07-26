@@ -1,93 +1,32 @@
-<h1 align="center">🚀 Hi, I'm Moni Singh</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Moni+Singh;React+%26+MERN+Stack+Specialist;Building+Scalable+Web+Apps+%26+Dashboards;Passionate+Full+Stack+Software+Engineer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1800&pause=800&color=00A0FF&center=true&vCenter=true&width=650&height=70&lines=React+%26+MERN+Specialist;I+am+a+Full+Stack+Developer;I+am+a+Coder;I+am+a+MERN+Developer;I+am+a+Software+Engineer"
-  />
+  <a href="https://moni-portfolio-pi.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-00F0FF?style=for-the-badge&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/moni-singh-96a560308/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:monisingh7476@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
----
-
-## 🔥 My GitHub Contribution Overview
-
-<!-- GREEN CONTRIBUTION GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monisingh01&theme=react-dark&bg_color=000000&color=00ff87&line=00bfff&point=00ff87&area=true&hide_border=true" />
-</p>
-
-<!-- STREAK CARD -->
-<p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=monisingh01&theme=highcontrast&background=30,00ffcb,008cff&ring=00ffcb&fire=00ffcb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" /> 
-</p>
-
-<!-- STATS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monisingh01&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monisingh01&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 🌟 About Me  
-I'm a **React / MERN Specialist** building clean admin dashboards, internal tools, and scalable UI systems.
-
-✨ React / Next.js  
-✨ Tailwind CSS  
-✨ Node.js + MongoDB  
-✨ Fast iteration + polished UX  
-
----
-
-## 🛠️ Skills & Technologies  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,postman,tailwind,vscode,figma" />
+  <img src="https://komarev.com/ghpvc/?username=monisingh01&label=Profile%20Views&color=00f0ff&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-# 🚀 Live Projects (Deployed)
+## ⚡ About Me
 
-### 🔹 **Portfolio Website**
-🌐 Live: https://moni-portfolio-pi.vercel.app/ 
-
-### 🔹 **Garage Management System**
-🌐 Live: https://garage-management-frontend-ruby.vercel.app/dashboard  
-
-### 🔹 **ICC Cricket Management**
-🌐 Live: https://system.indorecricketclub.com
-
-### 🔹 **Medlivurr Medicine Platform**
-🌐 Live: https://github.com/monisingh01/Banking_api  
- 
-
----
-
-# 📦 GitHub Projects (Repositories)
-
-
-### 🔹 **Banking API (TypeScript)**
-🔗 GitHub: https://github.com/monisingh01/Banking_api  
-
-### 🔹 **Ecommerce Backend (Node.js)**
-🔗 GitHub: https://github.com/monisingh01/ecommerce_backend_api  
-
-### 🔹 **Pixabay Clone**
-🔗 GitHub: https://github.com/monisingh01/Pixabay-Clone  
-
-### 🔹 **Bouncing Ball Game**
-🔗 GitHub: https://github.com/monisingh01/Bouncing_ball_game  
-
----
-
-## 🤝 Connect With Me  
-
-<p>
-  <a href="https://www.linkedin.com/in/moni-singh-96a560308/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://moni-portfolio-pi.vercel.app/"><img src="https://skillicons.dev/icons?i=webflow" height="40"/></a>
-  <a href="mailto:monisingh7476@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-</p>
-
----
-
-<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+```yaml
+Developer_Details:
+  Name: Moni Singh
+  Role: Full Stack / MERN Specialist
+  Focus: Clean Architecture, Admin Dashboards & High-Performance UI Systems
+  Location: India 🇮🇳
+  Current_Focus: Advanced Next.js, TypeScript & Microservices Architecture
+  Passionate_About: Pixel-perfect UI, UX Animations & Writing Clean Maintainable Code
