@@ -1,8 +1,19 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Moni%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=230&section=header&text=Moni%20Singh&fontSize=62&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=800&color=8B5CF6&center=true&vCenter=true&width=680&lines=Building+scalable+MERN+applications+%F0%9F%9A%80;React+%2B+Next.js+%7C+Node.js+%2B+Express;1.5%2B+Years+Turning+Ideas+Into+Products;Open+to+Full-Time+%26+Freelance+Opportunities" alt="Typing SVG" />
+</a>
 
 <br/>
+
+<img src="https://img.shields.io/badge/Experience-1.5%2B_Years-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Work-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Freelance-Available-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Based_in-India-F59E0B?style=for-the-badge"/>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/moni-singh-96a560308/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -19,9 +30,7 @@
 
 <br/><br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Building+scalable+MERN+applications;React+%2B+Next.js+%7C+Node.js+%2B+Express;1.5%2B+Years+Turning+Ideas+Into+Products;Open+to+Full-Time+%26+Freelance+Opportunities" alt="Typing SVG" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=monisingh01&label=Profile%20Views&color=6366F1&style=flat-square"/>
 
 </div>
 
@@ -227,13 +236,38 @@ const moni = {
 
 <br/>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=monisingh01&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
+
+<br/>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/monisingh01/monisingh01/output/github-contribution-grid-snake.svg" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monisingh01/monisingh01/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monisingh01/monisingh01/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/monisingh01/monisingh01/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<sub>⚠️ Shows blank until the workflow below runs once — takes 2 minutes to activate.</sub>
+
 </div>
 
-<sub>⚙️ Generated via <a href="https://github.com/Platane/snk">Platane/snk</a> — add the workflow to your <code>monisingh01/monisingh01</code> repo to activate.</sub>
+<details>
+<summary><b>⚙️ How to activate the snake animation (one-time, 2 minutes)</b></summary>
+<br/>
+
+1. Create a repo named exactly **`monisingh01/monisingh01`** (same as your username) — this becomes your GitHub profile repo.
+2. Inside it, create `.github/workflows/snake.yml` and paste in the workflow (separate file provided alongside this README — just copy it in).
+3. Push to `main` → go to the **Actions** tab → run it once manually (`Run workflow`).
+4. It auto-creates an `output` branch with the SVGs, refreshed daily via cron — the animation above will then render.
+
+</details>
 
 <br/><br/>
 
